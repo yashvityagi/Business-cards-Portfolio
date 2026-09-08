@@ -1,0 +1,8 @@
+{
+  "name": "Mainframe — Business Card & Brand Design",
+  "description": "Portfolio landing page for custom printable business card designs and brand materials starting at ₹199, featuring an interactive mouse-scrubbed hero video and portfolio showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
